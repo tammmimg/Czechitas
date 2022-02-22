@@ -1,1 +1,1 @@
-CONSOLE.LOG("AHOJ");
+import './ukoly/1.js'
